@@ -2,7 +2,7 @@ Name: Faridat Suleiman
 Slack Username: Jazzmin.jsx
 # Project Description: Accessible Profile Card Component
 A responsive, accessible profile card component built with semantic HTML, modern CSS, and vanilla JavaScript.
-Domain:
+Domain: https://hng13-stage0-devops.vercel.app/
 
 ## Features
 
