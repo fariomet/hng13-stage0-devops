@@ -4,6 +4,7 @@
 
 # Project Description: Accessible Profile Card Component
 A responsive, accessible profile card component built with semantic HTML, modern CSS, and vanilla JavaScript.
+
 Domain: https://hng13-stage0-devops.vercel.app/
 
 ## Features
@@ -17,8 +18,11 @@ Domain: https://hng13-stage0-devops.vercel.app/
 ## Project Structure
 profile-card-page/
 ├──Image
+
    └──avatar.jpg
+   
 ├── index.html # Main HTML file with embedded CSS and JS
+
 └── README.md # Project documentation
 ## Setup Instructions
 
