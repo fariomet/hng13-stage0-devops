@@ -15,15 +15,6 @@ Domain: https://hng13-stage0-devops.vercel.app/
 - **Real-time Updates**: Current time displayed in milliseconds with live updates
 - **Security**: Social links open safely with `rel="noopener noreferrer"`
 
-## Project Structure
-profile-card-page/
-├──Image
-
-   └──avatar.jpg
-   
-├── index.html # Main HTML file with embedded CSS and JS
-
-└── README.md # Project documentation
 ## Setup Instructions
 
 ### Prerequisites
@@ -38,8 +29,10 @@ profile-card-page/
    - Double-click the `index.html` file, OR
    - Right-click and select "Open with" your preferred browser
 
-Testing the Component:
+# Testing the Component
+
 Automated Testing
+
 The component includes data-testid attributes for all major elements:
 
 test-profile-card - Main container
